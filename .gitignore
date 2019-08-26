@@ -1,0 +1,9 @@
+Doc2O
+models/*.graph
+models/*.pyc
+models/*.ckpt*
+checkpoint
+*.png
+*.jpg
+*.jpeg
+test.txt
